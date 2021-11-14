@@ -1,0 +1,53 @@
+html, body {
+    overflow-x: hidden;
+}
+
+.global {
+    width: 100vw;
+    overflow: hidden;
+    background: linear-gradient(180deg, #7A57FD 0%, #6135D7 100%);
+    box-shadow: 4px 2px 14px rgba(0, 0, 0, 0.05); 
+}
+
+.container {
+    max-width: 1140px;
+    height: 554px;
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+}
+
+.footer {
+    width: 100vw;
+    height: 81px;
+    background: #200E64;
+    box-shadow: 4px 2px 14px rgba(0, 0, 0, 0.05);
+}
+
+.shapes-right {
+    width: 383px;
+    height: 766px;
+    position: absolute;
+    right: 0;
+    transform: translateX(296px);
+    z-index: 9;
+}
+
+.shapes-right img, .shapes-left-svg {
+    width: 100%;
+}
+
+.shapes-left {
+    position: absolute;
+    left: 0;
+    width: 450px;
+    transform: translateX(-118px);
+    margin-top: 60px;
+}
+
+.home-image {
+    position: absolute;
+    height: 94%;
+    width: auto;
+    right: 40px;
+}
