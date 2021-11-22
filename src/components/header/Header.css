@@ -52,3 +52,17 @@
     display: none;
 }
 
+
+/*responsive*/
+
+@media (max-width: 830px) {
+    .header__nav, .header__button {
+        display: none;
+    }
+    .header__bars-icon {
+        display: block;
+        color: white;
+        background-color: green;    
+        margin-right: 20px;
+    }
+}

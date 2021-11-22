@@ -16,11 +16,11 @@ function App() {
       <div className="global">
         <Header />
         <div className="container">
+          <Content/>
           <div className="shapes-left">
             <img className="home-image" src={homeImage} />
             <img className="shapes-left-svg" src={shapesLeft} />
           </div>
-          <Content/>
           <div className="shapes-right">
             <img src={shapesRight} />
           </div>
