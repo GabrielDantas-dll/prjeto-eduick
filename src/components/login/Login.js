@@ -8,11 +8,11 @@ library.add(fas);
 
 function Login({ id = "modal", onClose = () => {} }) {
 
-  { 
+  
   /* 
     Login component is a file executed when the button Get Started is clicked. Here you`ll find a couple specific features to this modal, such as the "show password" and "close modal".
   */ 
-  }
+  
 
   //function to close modal login if click on modal-login class
   const handleOutsideClick = (e) => {

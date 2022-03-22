@@ -47,6 +47,7 @@ p {
     font-weight: 400;
     line-height: 31px;
     letter-spacing: 0em;
+    font-family: 'Poppins', sans-serif;
 }
 
 .login__elements {
@@ -79,14 +80,14 @@ input {
     box-sizing: border-box;
     border-radius: 4px;
     padding: 20px;
-    font-family: Open Sans;
     color:#FFFFFF;
     font-size: 18px;
     font-style: normal;
     font-weight: 400;
     line-height: 17px;
     letter-spacing: 0em;
-    cursor:context-menu
+    cursor:context-menu;
+    font-family: 'Poppins', sans-serif;
 }
 
 .login__btn {
@@ -100,6 +101,7 @@ input {
     margin-top: 0px;
     float: right;
     cursor: pointer;
+    font-family: 'Poppins', sans-serif;
 }
 
 .eyes-icon {

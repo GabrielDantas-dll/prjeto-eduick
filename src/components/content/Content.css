@@ -54,6 +54,7 @@
 .mid__input:hover {
   box-sizing: border-box;
   background: #7955e8;
+  cursor: pointer;
 }
 
 .content__bottom {
