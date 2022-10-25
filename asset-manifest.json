@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/projeto-eduick/static/css/main.ac8fb10f.chunk.css",
+    "main.js": "/projeto-eduick/static/js/main.e6fe9ce8.chunk.js",
+    "main.js.map": "/projeto-eduick/static/js/main.e6fe9ce8.chunk.js.map",
+    "runtime-main.js": "/projeto-eduick/static/js/runtime-main.6367b14b.js",
+    "runtime-main.js.map": "/projeto-eduick/static/js/runtime-main.6367b14b.js.map",
+    "static/js/2.08fbc284.chunk.js": "/projeto-eduick/static/js/2.08fbc284.chunk.js",
+    "static/js/2.08fbc284.chunk.js.map": "/projeto-eduick/static/js/2.08fbc284.chunk.js.map",
+    "index.html": "/projeto-eduick/index.html",
+    "static/css/main.ac8fb10f.chunk.css.map": "/projeto-eduick/static/css/main.ac8fb10f.chunk.css.map",
+    "static/js/2.08fbc284.chunk.js.LICENSE.txt": "/projeto-eduick/static/js/2.08fbc284.chunk.js.LICENSE.txt",
+    "static/media/close-modal-btn.b3819e9b.svg": "/projeto-eduick/static/media/close-modal-btn.b3819e9b.svg",
+    "static/media/header-logo.2279496f.svg": "/projeto-eduick/static/media/header-logo.2279496f.svg",
+    "static/media/home-image.aace5a4e.png": "/projeto-eduick/static/media/home-image.aace5a4e.png",
+    "static/media/shapes-left.89b80793.svg": "/projeto-eduick/static/media/shapes-left.89b80793.svg",
+    "static/media/shapes-right.09ddad4b.svg": "/projeto-eduick/static/media/shapes-right.09ddad4b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6367b14b.js",
+    "static/js/2.08fbc284.chunk.js",
+    "static/css/main.ac8fb10f.chunk.css",
+    "static/js/main.e6fe9ce8.chunk.js"
+  ]
+}
